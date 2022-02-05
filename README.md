@@ -12,7 +12,7 @@ Installation (using homebrew)
 ====
 ```
   $ brew tap ricky840/akasdig
-  $ brew install akasdig
+  $ brew install ricky840/akasdig/sdig
 ```
 Options
 ====
